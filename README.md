@@ -1,11 +1,11 @@
 # Question_Selector_Based_On_NLP
-INTRODUCTION
+INTRODUCTION :
 Program will take paragraph as input.And will provide best questions related to the input paragraph from our text file containing more than 1 lac Questions.
 
 TOOLS and TECHNICS
-Used Python language for building logics .
-Used Nltk library for Natural Language Processing.
-Used Cosine Similarity Algorithm
+1) Used Python language for building logics .
+2) Used Nltk library for Natural Language Processing.
+3) Used Cosine Similarity Algorithm
 
 How Our Code Works:
 1) Take Paragraph as Input.
